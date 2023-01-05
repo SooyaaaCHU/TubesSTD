@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1672567852 source:c:\users\hp\sem3\struktur-data\tubes lain\film\film.cpp
+	"film.h"
+
+1672567485 c:\users\hp\sem3\struktur-data\tubes lain\film\film.h
+	<iostream>
+
+1672570637 source:c:\users\hp\sem3\struktur-data\tubes lain\film\main.cpp
+	"film.h"
+	"sutradara.h"
+	<iostream>
+
+1672568972 c:\users\hp\sem3\struktur-data\tubes lain\film\sutradara.h
+	<iostream>
+	"film.h"
+
+1672569452 source:c:\users\hp\sem3\struktur-data\tubes lain\film\sutradara.cpp
+	"sutradara.h"
+
+1672572294 source:c:\users\user\downloads\film2\film\film.cpp
+	"film.h"
+
+1672572294 c:\users\user\downloads\film2\film\film.h
+	<iostream>
+
+1672572294 source:c:\users\user\downloads\film2\film\main.cpp
+	"film.h"
+	"sutradara.h"
+	<iostream>
+
+1672572294 c:\users\user\downloads\film2\film\sutradara.h
+	<iostream>
+	"film.h"
+
+1672572294 source:c:\users\user\downloads\film2\film\sutradara.cpp
+	"sutradara.h"
+
+1672582236 source:d:\tubes film\film.cpp
+	"film.h"
+
+1672582239 d:\tubes film\film.h
+	<iostream>
+
+1672582237 source:d:\tubes film\main.cpp
+	"film.h"
+	"sutradara.h"
+	<iostream>
+
+1672582240 d:\tubes film\sutradara.h
+	<iostream>
+	"film.h"
+
+1672582238 source:d:\tubes film\sutradara.cpp
+	"sutradara.h"
+
